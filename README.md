@@ -66,10 +66,16 @@ BERT, or Bidirectional Encoder Representations from Transformers, is pre-trained
 Image credit: https://machinelearningmastery.com/a-brief-introduction-to-bert/
 
 # Model Evaluation 
+
+
 <img width="641" alt="Screen Shot 2023-12-14 at 5 06 23 PM" src="https://github.com/ProBag/LLM-/assets/143302669/efc5d6ca-1af5-49ce-825d-f42341cc7437">
 
 
+
+
 <img width="652" alt="Screen Shot 2023-12-14 at 5 06 35 PM" src="https://github.com/ProBag/LLM-/assets/143302669/57cb420e-477d-4151-b68c-35a3cec3b1c6">
+
+
 
 
 
@@ -77,7 +83,11 @@ Image credit: https://machinelearningmastery.com/a-brief-introduction-to-bert/
 
 
 
+
+
 <img width="243" alt="Screen Shot 2023-12-14 at 5 07 04 PM" src="https://github.com/ProBag/LLM-/assets/143302669/1acf9ff8-2e17-483e-909d-4b48c15cc4b5">
+
+
 
 
 
