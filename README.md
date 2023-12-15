@@ -17,7 +17,7 @@ This small amount of LLM-generated essays makes it difficult for the model to le
 
 Therefore, a new data collection called "daigt-v2-train-dataset" has been chosen instead. "DAIGT" is just the short form of the competition title without LLM. One of the participants in a discussion post shared that the prompts in the original datasets come from a dataset called "PERSUADE 2.0 corpus". By trial and error, the participants discovered the seven prompts that will be used in the testing dataset. This new dataset contains similar features to the original dataset, including text, label, prompt_name, source, and RDizzl3_seven. The first three columns are similar to the original dataset, where instead of using the identifier, the exact prompt name is used. The source refers to where the essay is coming from, including persuade corpus, ChatGPT, Llama 70B, and more. This new dataset has 44,840 essays and more balanced target classes for model training. More details about the dataset will be provided in the exploratory data analysis section.
 
-<img width="339" alt="Screen Shot 2023-12-14 at 5 01 27 PM" src="https://github.com/ProBag/LLM-/assets/143302669/42e55cea-4e66-4476-b292-36a6980365a5">
+<img width="339" alt="Screen Shot 2023-12-14 at 5 01 27 PM" src="https://github.com/ProBag/LLM-/assets/143302669/42e55cea-4e66-4476-b292-36a6980365a5"/n>
 
 
 <img width="492" alt="Screen Shot 2023-12-14 at 5 01 42 PM" src="https://github.com/ProBag/LLM-/assets/143302669/debfddf9-4a29-49e1-ab07-18ea5c325b48">
