@@ -52,22 +52,34 @@ LSTMs are designed to process sequential data and can capture long-term context,
 
 <img width="485" alt="Screen Shot 2023-12-14 at 5 05 00 PM" src="https://github.com/ProBag/LLM-/assets/143302669/b460c9ec-6652-4538-a7f3-4741bc87de92">
 
+
+
 Image credit: https://medium.com/@raghavaggarwal0089/bi-lstm-bc3d68da8bd0 
 
 # BERT
 BERT, or Bidirectional Encoder Representations from Transformers, is pre-trained to understand language and context and fine-tuned to achieve state-of-the-art results in various concepts of text classification. BERT is achieved by stacking encoders.
 
 <img width="464" alt="Screen Shot 2023-12-14 at 5 05 45 PM" src="https://github.com/ProBag/LLM-/assets/143302669/300f99b9-3c76-4965-8efa-3e2fe510a3f1">
+
+
+
 Image credit: https://machinelearningmastery.com/a-brief-introduction-to-bert/
 
 # Model Evaluation 
 <img width="641" alt="Screen Shot 2023-12-14 at 5 06 23 PM" src="https://github.com/ProBag/LLM-/assets/143302669/efc5d6ca-1af5-49ce-825d-f42341cc7437">
 
+
 <img width="652" alt="Screen Shot 2023-12-14 at 5 06 35 PM" src="https://github.com/ProBag/LLM-/assets/143302669/57cb420e-477d-4151-b68c-35a3cec3b1c6">
+
+
 
 <img width="285" alt="Screen Shot 2023-12-14 at 5 06 52 PM" src="https://github.com/ProBag/LLM-/assets/143302669/e18b779b-2e6c-47aa-baf0-9c497c9c7bf9">
 
+
+
 <img width="243" alt="Screen Shot 2023-12-14 at 5 07 04 PM" src="https://github.com/ProBag/LLM-/assets/143302669/1acf9ff8-2e17-483e-909d-4b48c15cc4b5">
+
+
 
 <img width="644" alt="Screen Shot 2023-12-14 at 5 07 21 PM" src="https://github.com/ProBag/LLM-/assets/143302669/73ca7570-1a02-4499-b961-eaa54fccd278">
 
